@@ -203,7 +203,6 @@ tensorflow-estimator==2.11.0
 tensorflow-hub==0.14.0
 tensorflow-io-gcs-filesystem==0.36.0
 tensorflow-metadata==1.14.0
-tensorflow-metal==1.1.0
 termcolor==2.3.0
 threadpoolctl==3.2.0
 tokenizers==0.13.3
