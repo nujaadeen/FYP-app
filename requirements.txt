@@ -202,7 +202,6 @@ tensorflow-datasets==4.9.3
 tensorflow-estimator==2.11.0
 tensorflow-hub==0.14.0
 tensorflow-io-gcs-filesystem==0.36.0
-tensorflow-macos==2.13.0
 tensorflow-metadata==1.14.0
 tensorflow-metal==1.1.0
 termcolor==2.3.0
