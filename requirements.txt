@@ -161,7 +161,6 @@ pyparsing==3.0.9
 PySocks==1.7.1
 pytest==8.0.2
 python-dateutil==2.9.0.post0
-python==3.7
 pytz==2024.1
 pyu2f==0.1.5
 PyYAML==6.0.1
@@ -197,7 +196,7 @@ tenacity==8.2.3
 tensorboard==2.16.2
 tensorboard-data-server==0.7.1
 tensorboard-plugin-wit==1.8.1
-tensorflow==2.16.1
+tensorflow>=2.0.0,<3.0.0
 tensorflow-addons==0.23.0
 tensorflow-datasets==4.9.3
 tensorflow-estimator==2.11.0
