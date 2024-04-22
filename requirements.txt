@@ -1,5 +1,10 @@
-torch>=1.6.0
-transformers>=4.0.0
 accelerate>=0.3.0
 peft>=0.1.0
 pandas>=1.0.0
+biopandas>=0.4.0
+networkx>=2.7
+numpy>=1.21.0
+periodictable>=1.6.1
+torch>=1.9.0
+torch-geometric>=2.0.1
+transformers>=4.9.2
